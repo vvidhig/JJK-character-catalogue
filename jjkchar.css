@@ -1,0 +1,688 @@
+body
+{
+    background-color: lightgoldenrodyellow;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+p
+{
+    border-style: solid;
+    background-color: darkred;
+    color:white;
+    font-size: 15px;
+}
+h1
+{
+    border-style: solid;
+    background-color: darkred;
+    color:white;
+    font-size: 40px;
+}
+h2{
+   
+    border-style: solid;
+    background-color: darkred;
+    color:white;
+    font-size: 30px;
+}
+
+h3{
+    background-color: rgb(255, 255, 255);
+    color: darkred;
+    font-size: 25px;
+}
+
+#PC
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    padding: 30px 10px;
+    margin: 20px 500px;
+}
+#sukuna
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#kenjaku
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#rika
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#sukuna:hover
+{
+    border-style: solid;
+    border-color: black ;
+    box-shadow: 10px 10px 10px 0px darkred;
+    transform: translateY(-0.25em);
+}
+#kenjaku:hover
+{
+    border-style: solid;
+    border-color: black ;
+    box-shadow: 10px 10px 10px 0px darkred;
+    transform: translateY(-0.25em);
+}
+#rika:hover
+{
+    border-style: solid;
+    border-color: black ;
+    box-shadow: 10px 10px 10px 0px darkred;
+    transform: translateY(-0.25em);
+}
+
+#TJHF
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    padding: 30px 10px;
+    margin: 20px 100px;
+}
+#yaga
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#gojo
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#atsuya
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#ieiri
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#ijichi
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#akari
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#yaga:hover
+{
+    border-style: solid;
+    border-color: black ;
+    box-shadow: 10px 10px 10px 0px darkred;
+    transform: translateY(-0.25em);
+}
+#gojo:hover
+{
+    border-style: solid;
+    border-color: black ;
+    box-shadow: 10px 10px 10px 0px darkred;
+    transform: translateY(-0.25em);
+}
+#atsuya:hover
+{
+    border-style: solid;
+    border-color: black ;
+    box-shadow: 10px 10px 10px 0px darkred;
+    transform: translateY(-0.25em);
+}
+#ieiri:hover
+{
+    border-style: solid;
+    border-color: black ;
+    box-shadow: 10px 10px 10px 0px darkred;
+    transform: translateY(-0.25em);
+}
+#ijichi:hover
+{
+    border-style: solid;
+    border-color: black ;
+    box-shadow: 10px 10px 10px 0px darkred;
+    transform: translateY(-0.25em);
+}
+#akari:hover
+{
+    border-style: solid;
+    border-color: black ;
+    box-shadow: 10px 10px 10px 0px darkred;
+    transform: translateY(-0.25em);
+}
+
+#TJHS1
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    padding: 30px 10px;
+    margin: 20px 500px;
+}
+#itadori
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#megumi
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#nobara
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+
+#TJHS2
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    padding: 30px 10px;
+    margin: 20px 400px;
+}
+#maki
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#panda
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#toge
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#yuta
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+
+#PS
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    padding: 30px 10px;
+    margin: 20px 400px;
+}
+#mei
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#yuki
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#nanami
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#ino
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+
+#KJHF
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    padding: 30px 10px;
+    margin: 20px 600px;
+}
+#gakuganji
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#iori
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+
+#KJHS2
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    padding: 30px 10px;
+    margin: 20px 500px;
+}
+#mai
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#miwa
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#muta
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+
+#KJHS3
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    padding: 30px 10px;
+    margin: 20px 500px;
+}
+#momo
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#todo
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#kamo
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+
+#SGC
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    padding: 30px 10px;
+    margin: 20px 500px;
+}
+#mahito
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#hanami
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#jogo
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+
+#GT
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    padding: 30px 10px;
+    margin: 20px 400px;
+}
+#geto
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#nanako
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#mimiko
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#miguel
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+
+#CW
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 10px;
+    display: flex;
+    padding: 30px 10px;
+    margin: 20px 500px;
+}
+#choso
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#eso
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+#kechizu
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+}
+
+#toji
+{
+    border-style:dashed;
+    border-radius: 10px;
+    border-color: darkred;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    padding: 10px 5px;
+    margin: 5px 810px;
+}
